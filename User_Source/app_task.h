@@ -2,7 +2,7 @@
 #define __APPTASK_H__
 #include "stdint.h"
 
-//Variable discription
+//Variable Discription
 typedef struct
 {
     uint8_t water;
@@ -13,7 +13,7 @@ typedef struct
 //typedef struct {
 //    uint8_t day;
 //    uint8_t month;
-//    uint8_t year;   // 00–99
+//    uint8_t year;   // 00ï¿½99
 //    uint8_t hour;
 //    uint8_t min;
 //    uint8_t sec;

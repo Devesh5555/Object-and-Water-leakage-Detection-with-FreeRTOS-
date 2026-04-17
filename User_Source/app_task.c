@@ -78,7 +78,7 @@ void Sensor_Task(void *arg)
 //		disp.mode=0;//AUTO
 //		disp.servo_angle = 180;
 //		disp.state=0;
-//		disp.water=0;
+//		
 //	
 //	
 //    while (1)
